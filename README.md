@@ -1,0 +1,1 @@
+# JavaScript Loop Practice Tasks
