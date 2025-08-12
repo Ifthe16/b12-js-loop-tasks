@@ -9,7 +9,7 @@ while (i <= 131) {
     }
     i++;
 }
-console.log("Sum of the odd numbers:", sum);
+console.log("Sum of the odd numbers:",sum);
 
 // Subtask-2
 let n = 206;
